@@ -129,9 +129,4 @@ public class FormParking {
 		buttonTakeBus.setBounds(22, 64, 97, 25);
 		panel.add(buttonTakeBus);
 	}
-	private void RedrawUI() {
-
-		panelParking.updateUI();		
-
-	}
 }
